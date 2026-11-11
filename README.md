@@ -19,7 +19,17 @@
 </p>
 
 ---
+## 🛠️ Languages and Tools
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,cs" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,git,github,visualstudio,vscode" />
+</p>
+
+---
 ## 👨‍💻 About Me
 
 I am a Computer Science graduate passionate about Full Stack Development, software engineering, and modern technologies.
@@ -34,11 +44,7 @@ I am a Computer Science graduate passionate about Full Stack Development, softwa
 
 ---
 
-## 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,cs,dotnet,git,github,visualstudio,vscode" />
-</p>
 
 **Technologies I Work With:**
 - HTML, CSS, JavaScript, Bootstrap
