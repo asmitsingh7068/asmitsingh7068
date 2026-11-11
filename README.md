@@ -12,4 +12,19 @@ I am a Computer Science graduate passionate about web development and software e
 
 
 
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,cs,dotnet,git,github,visualstudio,vscode" />
+</p>
+
+### 💻 Technologies I Work With
+
+- HTML, CSS, JavaScript, Bootstrap
+- Core Java
+- C# (Core & Advanced)
+- ASP.NET MVC 5
+- .NET Framework
+- Git & GitHub
+
 
