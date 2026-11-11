@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**asmitsingh7068/asmitsingh7068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Asmit Singh 👋
 
-Here are some ideas to get you started:
+### Aspiring .NET Developer | C# | ASP.NET MVC 5 | SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Computer Science graduate passionate about web development and software engineering.
+
+- 🌱 Currently learning ASP.NET MVC 5 and ADO.NET.
+- 💻 Practicing C#, SQL Server and Web Development.
+- 🚀 Building practical projects to improve my development skills.
+- 🎯 Goal: To become a skilled .NET Full Stack Developer.
+
+
+
+
