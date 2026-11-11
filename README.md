@@ -68,7 +68,6 @@ I am a Computer Science graduate passionate about Full Stack Development, softwa
 
 - **B.Tech:** Computer Science and Engineering(2026)
 - **Institute:** S.P. Memorial Institute of Technology (SPMIT), AKTU
--
 
 ---
 
