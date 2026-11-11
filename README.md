@@ -88,7 +88,7 @@ I am a Computer Science graduate passionate about Full Stack Development, softwa
 - Developed web application features and practiced form handling.
 - Improved coding, debugging and problem-solving skills.
 
----
+--
 
 ## 🚀 Career Interests
 
