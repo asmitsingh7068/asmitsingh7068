@@ -66,9 +66,9 @@ I am a Computer Science graduate passionate about Full Stack Development, softwa
   <img src="https://img.shields.io/badge/Diploma-CS%20%7C%20UPBTE-orange?style=for-the-badge" />
 </p>
 
-- **B.Tech:** Computer Science and Engineering
+- **B.Tech:** Computer Science and Engineering(2026)
 - **Institute:** S.P. Memorial Institute of Technology (SPMIT), AKTU
-- **Diploma:** Computer Science / Information Technology, UPBTE
+-
 
 ---
 
